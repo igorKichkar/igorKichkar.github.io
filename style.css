@@ -1,0 +1,214 @@
+body{
+	margin: 0px;
+}
+
+span.s1 {
+	position: absolute;
+	top: 30px;
+	left: 85px;
+	font-size: 22pt;
+	color: #B40404;
+	
+		
+}
+
+span.s2 {
+	position: absolute;
+	top: 40px;
+	right: 85px;
+	font-size: 12pt;
+	color: #B40404;
+	
+		
+}
+
+span.s3 {
+	position: absolute;
+	top: 130px;
+	right: 85px;
+	font-size: 12pt;
+	color: gray;
+	
+}
+
+#polosa3 ul {
+	padding-left: 88px;
+	margin:0px;
+}
+
+
+
+#polosa3 li {
+	height: 50px;
+	float: left;
+	padding-top: 15px;
+	background-color:#B40404;
+	font-size: 14pt;
+	padding-left: 15px;
+	padding-right: 15px;
+	color: white;
+	
+}
+
+#polosa3 li.stock{	
+	background-color:#8A0808;
+}
+
+#polosa3 li:hover{
+	background-color:#8A0808;
+	color: white;
+}
+
+#polosa {
+	height: 20px;
+	background-color: #BDBDBD;
+	
+}
+
+#polosa2 {
+	
+	height: 50px;
+	background-color: #D8D8D8;
+}
+
+#polosa3 {
+	height: 50px;
+	background-color: #B40404;
+	overflow: hidden;
+	
+	
+}
+
+#polosa4 {
+	height: 40px;
+	background-color: #D8D8D8;
+	overflow: hidden;
+	
+}
+#polosa4 ul {
+	margin:0px;
+	padding-left: 120px;
+}
+
+#polosa4 li {
+	text-decoration: underline;
+	padding-top: 10px;
+	float: left;
+	font-size: 12pt;
+	padding-left: 10px;
+	padding-right: 10px;
+	color: gray;
+	
+}
+
+#polosa4 li:hover{
+	text-decoration: none;
+	}
+
+.s3 a:hover {
+	text-decoration: none;
+}
+
+.s3 a{
+	color:gray;
+}
+
+
+#cont1{
+	width: 44%;
+	
+	float: left;
+	padding-left: 85px;
+	text-align: justify;
+	padding-right: 10px;
+}
+
+#cont2{
+	width: 20%;
+	
+	float: left;
+	font-size: 10pt;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 15px;
+	text-align: justify;
+}
+
+#cont3{
+	width: 20%;
+	
+	float: left;
+	text-align: justify;
+	font-size: 10pt;
+	padding-left: 10px;
+	
+}
+
+#cont3 img{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+div {
+	overflow: hidden;
+}
+
+#telo {
+	
+}
+
+#niz {
+	 
+	background-color: #E6E6E6;
+	color: #6E6E6E;
+	height: 220px;
+	
+	
+	
+}
+
+#niz1 {
+	
+	width: 30%;
+	height: 200px;
+	float: left;
+}
+
+#niz2 {
+	 
+	width: 64%;
+	height: 200px;
+	float: left;
+}
+ul.niz_s{
+	padding: 10px 5px 5px 85px;
+}
+
+p.polosa{
+	border-top: 1px solid black;
+	text-align: center;
+	font-size: 10pt;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+p.no_polosa{
+	text-align: center;
+	font-size: 10pt;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#niz2 h2{
+	text-align: center;
+}
+
+#niz a{
+	color: #6E6E6E;
+	text-decoration: none;
+}
+
+#niz a:hover{
+	color: #6E6E6E;
+	text-decoration: underline;
+}
